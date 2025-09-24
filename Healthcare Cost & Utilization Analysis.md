@@ -2,6 +2,8 @@
 
 This project analyzes hospital inpatient and Medicare datasets to uncover cost drivers, utilization patterns, and opportunities for efficiency in U.S. healthcare. By profiling and cleaning diagnosis/procedure frequency data across multiple years and combining it with Medicare provider/service datasets, the project highlights trends that can support policy decisions, hospital benchmarking, and cost savings strategies.
 
+## [Executive Summary](https://github.com/Zennahby/MEDICARE_COST_UTILIZATION_ANALYSIS/blob/main/Executive%20Summary.md)
+
 ## Objectives
 
 Identify the most resource-intensive diagnoses and procedures
@@ -51,5 +53,6 @@ Data validation
 ### Data Analysis
 
 ### Final  report
+
 
 
